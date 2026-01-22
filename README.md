@@ -27,7 +27,7 @@ personal-portfolio/
 
 1. Clone the repository:
    
-   git clone https://github.com/FatimaGhafoor/my_personal_portfolio_fatimaGhafoor/tree/main
+   git clone https://fatimaghafoor.github.io/my_personal_portfolio_fatimaGhafoor/
 
 2. Open `index.html` in your preferred web browser.
 
@@ -48,4 +48,3 @@ Feel free to explore my work and connect with me through my portfolio!
 
 
 
-If you want, I can also make a **shorter, GitHub “Go Live-ready” version** that looks sleek on your repo page and instantly communicates your skills. Do you want me to do that?
